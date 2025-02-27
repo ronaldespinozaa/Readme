@@ -4,9 +4,11 @@
 
 💪 I believe in the power of data to drive informed decision-making and solve real-world problems. 
 
+As a Teacher Assistant of a Data Science Bootcamp, I actively support students by guiding them through real-world data science projects. I incorporate additional information and examples that enhance their learning experience and help them tackle challenges in data analysis. While the projects I work on may require transforming certain datasets due to confidentiality agreements, I am always happy to share my experience and knowledge from these projects in a generalized form. This provides students with valuable insights into how data science is applied in professional environments.
+
 🔎 Feel free to explore my work, collaborate, and provide feedback.
 
-🎯 Let's harness the potential of data together and create meaningful impact. Connect with me on LinkedIn or reach out via email. Let's dive into the world of data science!
+🎯 Let's harness the potential of data together and create meaningful impact. Let's dive into the world of data science!
 
 🌐 Socials:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ronaldespinoza/) 
